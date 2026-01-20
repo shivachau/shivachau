@@ -11,7 +11,12 @@ technical ones. I frame problems by defining assumptions, enforcing
 safety boundaries, identifying failure modes, and deciding what should
 not be built — before deciding what survives.
 
----
+## Skills & Methods
+Systems framing and governance, healthcare workflow design,
+assumption and failure-mode analysis, supervisory system design,
+Python-based prototyping and scripting, rule-based software workflows,
+Mermaid diagrams and technical documentation, CAD modeling (TinkerCAD),
+Arduino-based electrical prototyping and sensor–actuator integration
 
 ## What I Actually Do
 
