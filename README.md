@@ -86,5 +86,4 @@ None claim clinical outcomes.
 - Assumptions before data  
 - Termination before scaling  
 
-If a system cannot be cleanly stopped, it should not be built.
 
