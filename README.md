@@ -68,7 +68,7 @@ None claim clinical outcomes.
 
 ## Selected Systems & Work
 
-⬇️ See pinned repositories below.
+ See pinned repositories below.
 
 ---
 
